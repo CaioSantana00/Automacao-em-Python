@@ -33,11 +33,10 @@ Ideal para cenários onde o sistema não possui API ou importação em massa.
 
 ```text
 Automacao-em-Python/
-│
-├── auxiliar.py           → Funções auxiliares da automação
-├── codigo.py             → Script principal
-├── produtos.csv          → Base de dados dos produtos
-├── requirements.txt      → Dependências do projeto
+┣ Auxiliar.py         -→ Funções auxiliares da automação
+┣ Codigo.py           -→ Script principal
+┣ Produtos.csv        -→ Base de dados dos produtos
+┗ Requirements.txt    -→ Dependências do projeto
 
 ```
 ---
@@ -52,15 +51,15 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 ---
 
-## 📦 Instalação e Execução 
+## 📦 Instruções de Instalação e Execução 
 
-**1.** Clone o repositório:
+**Clone o repositório:** 
 ```bash
 https://github.com/CaioSantana00/Automacao-em-Python.git
 cd Automacao-em-Python
 ```
 
-**2.** (Opcional, mas recomendado) Crie um ambiente virtual:
+**(Opcional, mas recomendado) Crie um ambiente virtual:** 
 ```bash
 python -m venv venv
 ```
@@ -90,7 +89,7 @@ python codigo.py
 
 - O PyAutoGUI depende da posição da tela e resolução
 - Não utilize mouse ou teclado durante a execução
-- Ajustes de tempo (time.sleep) podem ser necessários
+- Ajustes de tempo **(time.sleep)** podem ser necessários
 - Projeto indicado para fins educacionais e automações controladas
 
 ---
