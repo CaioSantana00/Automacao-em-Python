@@ -38,7 +38,6 @@ Automacao-em-Python/
 ├── codigo.py             → Script principal
 ├── produtos.csv          → Base de dados dos produtos
 ├── requirements.txt      → Dependências do projeto
-└── README.md             → Documentação
 
 ```
 ---
