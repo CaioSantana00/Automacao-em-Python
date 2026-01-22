@@ -33,10 +33,10 @@ Ideal para cenários onde o sistema não possui API ou importação em massa.
 
 ```text
 Automacao-em-Python/
-┣ Auxiliar.py         -→ Funções auxiliares da automação
-┣ Codigo.py           -→ Script principal
-┣ Produtos.csv        -→ Base de dados dos produtos
-┗ Requirements.txt    -→ Dependências do projeto
+┣ 📜 Auxiliar.py         -→ Funções auxiliares da automação
+┣ 📜 Codigo.py           -→ Script principal
+┣ 📜 Produtos.csv        -→ Base de dados dos produtos
+┗ 📜 Requirements.txt    -→ Dependências do projeto
 
 ```
 ---
